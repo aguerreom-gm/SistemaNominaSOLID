@@ -62,7 +62,7 @@ public class Main {
         double neto =
                 calculadora.calcularSalarioNeto(empleado);
 
-        System.out.println("========= SISTEMA DE NOMINA =========");
+        System.out.println("Sistema de Nomina - Version 2");
         System.out.println(
                 "Empleado: " + empleado.getNombre()
         );
